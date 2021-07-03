@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tEnderChest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tEnderChest_jar</output-path>
+    <root id="archive" name="tEnderChest.jar">
+      <element id="module-output" name="tEnderChest" />
+    </root>
+  </artifact>
+</component>
