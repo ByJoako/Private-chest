@@ -1,0 +1,22 @@
+enderchest:
+  example:
+    permission: "privatechest.example"
+    slot:
+      start: 19
+      amount: 18
+    fill:
+      data: 9
+      displayname: "&9&lExample"
+      lore:
+        - "&7buy in store.helydev.com"
+
+  example2:
+    permission: "privatechest.example2"
+    slot:
+      start: 37
+      amount: 18
+    fill:
+      data: 4
+      displayname: "&4&lExample 2"
+      lore:
+        - "&7buy in store.helydev.com"

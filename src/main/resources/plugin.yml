@@ -1,0 +1,9 @@
+name: Private-Chest
+main: net.helydev.com.main
+description: This add-on is a custom ender chest system
+version: 1.1-SNAPSHOT
+author: ByJoako
+commands:
+  enderchest:
+    aliases:
+      - ec
